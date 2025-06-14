@@ -20,10 +20,11 @@ Nav3 Samples is a demonstration app that shows how to implement modern navigatio
       <img src="screenshots/app_screenshot.png" alt="App Screenshot" width="100%">
     </td>
     <td width="50%">
-      <video width="100%" controls>
-        <source src="screenshots/app_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      
+
+https://github.com/user-attachments/assets/8dbee446-aa22-4e34-b587-d0a523e0faab
+
+
     </td>
   </tr>
 </table>
